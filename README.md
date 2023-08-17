@@ -1,7 +1,7 @@
 # Proceeding for CHEP23
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/csbs-paper/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/csbs-paper/main)
-[![gh actions](https://github.com/hsf-training/csbs-paper/actions/workflows/workflow.yml/badge.svg)](https://github.com/hsf-training/csbs-paper/actions)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/chep23-proceeding-community/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/chep23-proceeding-community/main)
+[![gh actions](https://github.com/hsf-training/chep23-proceeding-community/actions/workflows/workflow.yml/badge.svg)](https://github.com/hsf-training/chep23-proceeding-community/actions)
 
 This repository holds the LaTeX source of the proceeding for the [CHEP23 conference][chep23]
 
